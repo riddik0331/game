@@ -35,3 +35,9 @@ class Timer(object):
             if self.oneshot:
                 self.alive = False
 
+def minus(a, b):
+    return a - b
+
+
+if __name__ == '__main__':
+    print(minus(100, 20))
