@@ -36,7 +36,6 @@ class Timer(object):
                 self.alive = False
 
 
-
 def plus(a, b):
     return a + b
 
