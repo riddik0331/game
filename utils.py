@@ -35,4 +35,3 @@ class Timer(object):
             if self.oneshot:
                 self.alive = False
 
-# commentar
